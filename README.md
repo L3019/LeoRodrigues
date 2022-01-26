@@ -1,4 +1,17 @@
 # LeoRodrigues
+
+ Olá, eu sou o Leonardo 👋
+ 
+ 
+Conheça-me um pouquinho:
+
+No momento estou cursando o curso técnico em informática/programação, e atualmente estou usando todo tempo livre resante para praticar/estudar em casa, Desde mais novo tive interesse na área de TI e, quando tive oportunidade de iniciar meus estudos, descobri nela uma nova realização e passei a ter certeza do que desejo para meu futuro.
+
+Atualmente  nao trabalho na area, mas procuro opurtunidade para aprender e me desenvolver ainda mais, atualmente estudo para ser um front-end, onde pratico JS, html e css; mas também almejo projetos de aprender outras tecnologias como PHP e outras linguagens. Não quero parar por aqui, ainda tenho muito a aprender e um sonho para alcançar.  
+
+
+
+
 O programador mediano sabe uma coisa porque ele precisa saber. O bom programador sabe alguma coisa porque ele tem vontade de saber.
 
 Assim é um bom programador.
