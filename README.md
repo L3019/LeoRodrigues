@@ -8,12 +8,7 @@ No momento estou cursando o curso técnico em informática/programação, e atua
 
 Atualmente  nao trabalho na area, mas procuro opurtunidade para aprender e me desenvolver ainda mais, estudo para ser um front-end, onde pratico Html, CSS, JavaScript, Reactjs, React Native, TypeScript; mas também almejo projetos de aprender outras tecnologias como PHP e outras linguagens. Não quero parar por aqui, ainda tenho muito a aprender e um sonho para alcançar.  
 
- <div align="center">
-  <a href="https://github.com/L3019">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRodrigues&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+............
 
 O programador mediano sabe uma coisa porque ele precisa saber. O bom programador sabe alguma coisa porque ele tem vontade de saber.
 
@@ -25,6 +20,12 @@ Capacidade técnica é algo que se adquire com o tempo, mas essa vontade de apre
 
 E estude muito. Isso ajudará bastante na hora em que você se deparar com um problema. Não se esqueça, nenhum conhecimento é inútil. 
 Você aprenderá mais rápido se você souber focar os seus estudos, mas se você não souber, você aprenderá mais coisas em mais tempo. O que importa é aprender.
+ 
+  <div align="center">
+  <a href="https://github.com/L3019">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRodrigues&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  ##
  <Div>
   <a href = "mailto:leonardo.cardoso98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
