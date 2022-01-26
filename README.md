@@ -8,6 +8,14 @@ No momento estou cursando técnico em informática/programação, e atualmente e
 
 Atualmente  nao trabalho na area, mas procuro opurtunidade para aprender e me desenvolver ainda mais, estudo para ser um front-end, onde pratico Html, CSS, JavaScript, Reactjs, React Native, TypeScript; mas também almejo projetos de aprender outras tecnologias como PHP e outras linguagens. Não quero parar por aqui, ainda tenho muito a aprender e um sonho para alcançar.  
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
 ............
 
 O programador mediano sabe uma coisa porque ele precisa saber. O bom programador sabe alguma coisa porque ele tem vontade de saber.
